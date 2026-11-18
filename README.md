@@ -1,6 +1,6 @@
-# 🎬 StreamHub — Centre de Téléchargement Officiel (Windows 11)
+# 🎬 StreamHub — Centre de Téléchargement Officiel (Windows 11 & Android TV)
 
-Bienvenue sur le dépôt de distribution public de **StreamHub** pour Windows 11 (x64).
+Bienvenue sur le dépôt de distribution public de **StreamHub** pour **Windows 11 (x64)** et **Android TV / Google TV**.
 
 🌐 **[Découvrir la page de présentation interactive](https://sharklog76.github.io/StreamHub/)**
 
@@ -10,16 +10,21 @@ Bienvenue sur le dépôt de distribution public de **StreamHub** pour Windows 11
 
 👉 **[Télécharger StreamHub v1.2.3 (Dernière version)](https://github.com/SharkLog76/streamhub-releases/releases/latest)**
 
-- **`StreamHub-win-Setup.exe`** *(Recommandé)* : Installeur complet avec icônes Windows et mises à jour automatiques silencieuses Velopack.
-- **`StreamHub-win-Portable.zip`** : Archive portable autonome prête à l'emploi sans installation.
+- **Windows 11 — `StreamHub-win-Setup.exe`** *(Recommandé)* : Installeur complet avec icônes Windows et mises à jour automatiques silencieuses Velopack.
+- **Windows 11 — `StreamHub-win-Portable.zip`** : Archive portable autonome prête à l'emploi sans installation.
+- **Android TV / Google TV — `StreamHub-AndroidTV.apk`** : Application TV native pilotable à la télécommande (D-Pad), mode Hybride WebView TV + Applis natives, Multi-Écrans et PiP TV.
 
 ---
 
-### 🌟 Aperçu de l'Application
+### 🌟 Aperçu de l'Application (Windows 11 & Android TV)
 
-| Interface Principale (Fluent Design 2) | Multi-Split-Screen Illimité |
+| Interface Windows 11 (Fluent Design 2) | Multi-Split-Screen Windows 11 |
 | :---: | :---: |
 | ![Vue Principale](assets/screenshots/streamhub_main_dashboard.png) | ![Split-Screen](assets/screenshots/streamhub_splitscreen.png) |
+
+| Accueil Android TV (D-Pad 1080p) | Multi-Écrans Android TV |
+| :---: | :---: |
+| ![Android TV Home](assets/screenshots/streamhub_tv_home.png) | ![Android TV Split](assets/screenshots/streamhub_tv_split.png) |
 
 | Palette de Commandes (`Ctrl+K`) |
 | :---: |
